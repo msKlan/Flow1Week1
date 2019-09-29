@@ -1,0 +1,4 @@
+entities\Animal_.class
+entities\Animal.class
+rest\AninalResource.class
+rest\ApplicationConfig.class
